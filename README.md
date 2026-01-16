@@ -1,4 +1,4 @@
-# Node.js Event Loop Experiment
+# Day 1- Node.js Event Loop Experiment
 
 This repo contains a simple experiment to understand Node.js **Event Loop**, **microtasks**, and **macrotasks**.
 
